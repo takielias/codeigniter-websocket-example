@@ -12,10 +12,16 @@ CodeIgniter library realtime communication by using Websocket technology and Rat
 
 ### :arrow_right: Step 1 : Library installation by Composer
 
-Just by running following command in the folder of your project :
+Clone The Repository 
+```sh
+git clone https://github.com/takielias/codeigniter-websocket-example.git
+```
+
+Run the following command in the folder of your project :
 ```sh
 composer install
 ```
+
 ### You'r almost done :heavy_check_mark:
 
 Open you'r command prompt then type the command bellow in you'r project folder :
