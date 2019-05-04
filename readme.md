@@ -30,7 +30,7 @@ php index.php welcome index
 ```
 
 #### :arrow_right: Test the App
-Open three pages of your project on following url with different IDs :
+Open two pages of your project on following url with different IDs :
 
 `http://localhost/codeigniter-websocket-example/index.php/user/index/1`
 
