@@ -1,6 +1,11 @@
 <?php if (!defined('BASEPATH')) exit('No direct script access allowed');
-
-$config['jwt_key'] = 'your JWT Private Key';
+/**
+ * Author: takielias
+ * Github Repo : https://github.com/takielias/codeigniter-websocket
+ * Date: 04/05/2019
+ * Time: 09:04 PM
+ */
+$config['jwt_key'] = 'wqNXcWG84P0AydlHxmjgYuSpZ3QOaLe1';
 
 /*Generated token will expire in 1 minute for sample code
 * Increase this value as per requirement for production
